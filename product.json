@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "image": "https://example.com/images/margherita.jpg",
+    "price": "250",
+    "description": "Classic cheese pizza with fresh tomatoes and mozzarella."
+  },
+  {
+    "name": "Veg Biryani",
+    "category": "Rice",
+    "image": "https://example.com/images/veg-biryani.jpg",
+    "price": "180",
+    "description": "Aromatic basmati rice cooked with spices and mixed vegetables."
+  },
+  {
+    "name": "Choco Lava Cake",
+    "category": "Dessert",
+    "image": "https://example.com/images/lava-cake.jpg",
+    "price": "120",
+    "description": "Warm chocolate cake with gooey molten chocolate center."
+  },
+  {
+    "name": "Cold Coffee",
+    "category": "Beverage",
+    "image": "https://example.com/images/cold-coffee.jpg",
+    "price": "90",
+    "description": "Iced coffee blended with milk and sugar, topped with whipped cream."
+  }
+]
